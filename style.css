@@ -18,7 +18,16 @@ header {
 }
 
 header p {
-    margin: 15px 0;
+    margin-top:15px;
+    font-size:20px;
+}
+.tagline{
+font-family:'Cormorant Garamond',serif;
+font-size:28px;
+font-style:italic;
+margin-top:28px;
+letter-spacing:1px;
+color:#F8F5E9;
 }
 
 .btn {
